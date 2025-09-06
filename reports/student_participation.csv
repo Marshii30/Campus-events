@@ -1,0 +1,11 @@
+                                                -> ORDER BY events_attended DESC;
++-------------+-------+-----------------+
+| student_uid | name  | events_attended |
++-------------+-------+-----------------+
+| S101        | Arjun |               1 |
+| S104        | Nisha |               1 |
+| S105        | Varun |               1 |
+| S102        | Meera |               0 |
+| S103        | Dev   |               0 |
++-------------+-------+-----------------+
+5 rows in set (0.0011 sec)
